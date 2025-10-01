@@ -1,6 +1,6 @@
-## Getting Started
+## Overview
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project creates instances of Dog objects using the Strategy Design Pattern, which improves modularity and flexibility.
 
 ## Folder Structure
 
